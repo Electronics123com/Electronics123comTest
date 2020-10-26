@@ -9,7 +9,7 @@ Picking Report Customization
     'website': "https://www.odoo.com",
     'category': 'Custom Development',
     'version': '0.1',
-    'depends': ['sale_stock'],
+    'depends': ['stock'],
     'data': [
         'views/report.xml',
     ],
